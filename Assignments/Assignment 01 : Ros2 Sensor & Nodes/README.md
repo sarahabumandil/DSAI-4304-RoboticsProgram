@@ -10,7 +10,7 @@
 ---
 
 ## Overview
-![Assignment screenshot](docs/image_beda957e.jpg) 
+![Assignment screenshot](https://raw.githubusercontent.com/sarahabumandil/DSAI-4304-RoboticsProgram/main/Assignments/Assignment%2001%20%3A%20Ros2%20Sensor%20%26%20Nodes/image_beda957e.jpg)
 
 `dsai4304_a1_sensor_monitor` is a small ROS 2 Python package that simulates a
 **front-range sensor** and detects when an obstacle is near.
