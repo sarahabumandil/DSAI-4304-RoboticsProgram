@@ -1,10 +1,13 @@
-
 # Assignment 1 : ROS 2 Nodes and Sensor Topics
 
 **student name:** Sarah Abumandill  
+
 **student number:** 220223416
+
 **Email:** sabumandil@gmail.com  
-**Course:** DSAI4304 Robotics 
+
+**Course:** DSAI4304 Robotics
+
 **Package:** `dsai4304_a1_sensor_monitor`
 
 ---
