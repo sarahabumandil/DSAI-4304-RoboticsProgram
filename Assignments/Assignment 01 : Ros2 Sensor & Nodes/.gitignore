@@ -1,1 +1,16 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
