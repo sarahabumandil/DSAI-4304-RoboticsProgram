@@ -1,9 +1,10 @@
 
-# Assignment 1 – ROS 2 Nodes and Sensor Topics
+# Assignment 1 : ROS 2 Nodes and Sensor Topics
 
-**Author:** Sarah Abumandill  
+**student name:** Sarah Abumandill  
+**student number:** 220223416
 **Email:** sabumandil@gmail.com  
-**Course:** DSAI4304  
+**Course:** DSAI4304 Robotics 
 **Package:** `dsai4304_a1_sensor_monitor`
 
 ---
@@ -173,7 +174,7 @@ Expected output:
 ...
 ```
 
-If you see CLEAR and STOP, the system works end-to-end.
+If you see CLEAR and STOP, the system works e2e .
 
 ---
 
@@ -256,7 +257,7 @@ docs/topic_hz.png
 
 Concept Questions
 
-Q1 — What does the publisher send and how does the subscriber discover it without calling the publisher directly?
+**Q1** What does the publisher send and how does the subscriber discover it without calling the publisher directly?
 
 The publisher sends std_msgs/msg/Float32 messages containing a distance value
 in metres on the topic /front/range. It does not call the subscriber
@@ -267,7 +268,7 @@ The subscriber only needs to know the topic name and the message type —
 not the publisher's identity or address. This decoupling means nodes can start
 in any order and remain independent.
 
-Q2 — How would changing the publish rate affect the interpretation of a moving obstacle?
+**Q2** How would changing the publish rate affect the interpretation of a moving obstacle?
 
 The publish rate determines the temporal resolution and latency of the
 sensor data. At 5 Hz, a new reading arrives every 0.2 s. If an obstacle
@@ -279,7 +280,7 @@ lower rate makes the data stale and can cause unsafe or delayed decisions
 for a moving obstacle. In short, the rate directly affects how reliably the
 system can interpret and react to motion.
 
-Q3 — Name one reason a ROS 2 QoS mismatch can prevent two otherwise compatible nodes from communicating.
+**Q3** Name one reason a ROS 2 QoS mismatch can prevent two otherwise compatible nodes from communicating.
 
 A common reason is a reliability QoS mismatch. If the publisher uses
 BEST_EFFORT (e.g., a sensor driver that tolerates dropped messages) and the
