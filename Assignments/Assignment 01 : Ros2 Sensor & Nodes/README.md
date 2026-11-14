@@ -311,10 +311,16 @@ Notes on design choices
 Reproducibility checklist
 
 ☐ ROS 2 sourced (source /opt/ros/<distro>/setup.bash)
+
 ☐ Workspace built (colcon build --packages-select dsai4304_a1_sensor_monitor)
+
 ☐ Workspace sourced (source install/setup.bash)
+
 ☐ Publisher prints Publishing: X.XX m
+
 ☐ Subscriber prints both CLEAR and STOP
+
 ☐ ros2 node list shows both nodes
+
 ☐ ros2 topic hz /front/range shows ~5 Hz
 
