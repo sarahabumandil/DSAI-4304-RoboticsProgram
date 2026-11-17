@@ -4,6 +4,11 @@
 </p>
 
 # Robotics Programming — DSAI 4304
+<p align="center">
+  <a href="https://raw.githubusercontent.com/sarahabumandil/DSAI-4304-RoboticsProgram/main/pic/IMG_20261117_151116_425.jpg"><img src="https://raw.githubusercontent.com/sarahabumandil/DSAI-4304-RoboticsProgram/main/pic/IMG_20261117_151116_425.jpg" width="400"/></a><br>
+  <sub><b>An LLM is controlling this robot</b></sub>
+</p> 
+
 
 My personal notes, summaries, labs, and ROS 2 code for
 **Robotics Programming (DSAI 4304)** at the University College of Applied Sciences.
