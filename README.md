@@ -1,5 +1,6 @@
-
-[**English**](./README.md) | [العربية](./README.ar.md) | [Français](./README.fr.md)
+<p align="center">
+  <kbd>EN</kbd> <a href="./README.ar.md"><kbd>ع</kbd></a> <a href="./README.fr.md"><kbd>FR</kbd></a>
+</p>
 
 # Robotics Programming — DSAI 4304
 
