@@ -1,13 +1,7 @@
 <p align="center">
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/English-2D6CDF?style=flat-square&logo=googletranslate&logoColor=white" alt="English">
-  </a>
-  <a href="./README.ar.md">
-    <img src="https://img.shields.io/badge/العربية-2D6CDF?style=flat-square" alt="العربية">
-  </a>
-  <a href="./README.fr.md">
-    <img src="https://img.shields.io/badge/Français-2D6CDF?style=flat-square" alt="Français">
-  </a>
+  <sub>
+    <b>EN</b> · <a href="./README.ar.md">ع</a> · <a href="./README.fr.md">FR</a>
+  </sub>
 </p>
 
 # Programmation Robotique — DSAI 4304
