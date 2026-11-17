@@ -54,6 +54,12 @@ Real-world robot data is still a major bottleneck — robots cannot rely on
 internet-scale text the way language models do — which is part of why the
 simulation-first labs matter.
 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/sarahabumandil/DSAI-4304-RoboticsProgram/main/pic/IMG_20261117_151014_535.jpg"><img src="https://raw.githubusercontent.com/sarahabumandil/DSAI-4304-RoboticsProgram/main/pic/IMG_20261117_151014_535.jpg" width="400"/></a><br>
+  <sub><b>Robocurve: Free robots for your lab</b></sub>
+</p>
+
+
 This repository is my record of that work.
 
 ---
