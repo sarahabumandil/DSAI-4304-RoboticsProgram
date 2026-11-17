@@ -1,13 +1,5 @@
 <p align="center">
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/-EN-000000?style=social&logo=googletranslate&logoColor=white" alt="EN" height="18">
-  </a>
-  <a href="./README.ar.md">
-    <img src="https://img.shields.io/badge/-AR-000000?style=social&logo=googletranslate&logoColor=white" alt="AR" height="18">
-  </a>
-  <a href="./README.fr.md">
-    <img src="https://img.shields.io/badge/-FR-000000?style=social&logo=googletranslate&logoColor=white" alt="FR" height="18">
-  </a>
+  <kbd>EN</kbd> <a href="./README.ar.md"><kbd>ع</kbd></a> <a href="./README.fr.md"><kbd>FR</kbd></a>
 </p>
 
 # برمجة الروبوتات — DSAI 4304
