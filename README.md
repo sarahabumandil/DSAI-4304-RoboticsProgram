@@ -1,4 +1,5 @@
 <p align="center">
+  <sub>pick ur language era </sub><br>
   <kbd>EN</kbd> <a href="./README.ar.md"><kbd>ع</kbd></a> <a href="./README.fr.md"><kbd>FR</kbd></a>
 </p>
 
