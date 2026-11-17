@@ -1,5 +1,6 @@
 <p align="center">
-  <kbd>EN</kbd> <a href="./README.ar.md"><kbd>ع</kbd></a> <a href="./README.fr.md"><kbd>FR</kbd></a>
+  <sub>بدّل اللغة  من هون </sub><br>
+  <a href="./README.md"><kbd>EN</kbd></a> <kbd>ع</kbd> <a href="./README.fr.md"><kbd>FR</kbd></a>
 </p>
 
 # برمجة الروبوتات — DSAI 4304
