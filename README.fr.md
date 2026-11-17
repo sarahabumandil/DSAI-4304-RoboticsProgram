@@ -1,5 +1,6 @@
 <p align="center">
-  <kbd>EN</kbd> <a href="./README.ar.md"><kbd>ع</kbd></a> <a href="./README.fr.md"><kbd>FR</kbd></a>
+  <sub>choisis ta langue fr fr </sub><br>
+  <a href="./README.md"><kbd>EN</kbd></a> <a href="./README.ar.md"><kbd>ع</kbd></a> <kbd>FR</kbd>
 </p>
 
 # Programmation Robotique — DSAI 4304
