@@ -39,9 +39,16 @@ through the LMS.
 
 ## A small motivation note
 
+<p align="center">
+  <a href="https://raw.githubusercontent.com/sarahabumandil/DSAI-4304-RoboticsProgram/main/pic/IMG_20261117_151008_917.jpg"><img src="https://raw.githubusercontent.com/sarahabumandil/DSAI-4304-RoboticsProgram/main/pic/IMG_20261117_151008_917.jpg" width="400"/></a><br>
+  <sub><b>IROS 2026: Sensors on to train</b></sub>
+</p>
+
+
 I followed **IROS 2026** (IEEE/RSJ International Conference on Intelligent
 Robots and Systems) virtually in November 2026. Seeing current work on
-Vision-Language-Action models, tactile sensing, and learning-based control
+Vision-Language-Action models, tactile sensing, and l
+earning-based control
 made the course feel like a starting point rather than a set of exercises.
 Real-world robot data is still a major bottleneck — robots cannot rely on
 internet-scale text the way language models do — which is part of why the
